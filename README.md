@@ -18,7 +18,7 @@ The key returned is the file offset which starts with zero and value is the all 
 Zip files are not supported
 <br>
 Execute the job as <br>
-hadoop jar ExcelRecordReaderMapReduce-0.0.1-SNAPSHOT-jar-with-dependencies.jar in out
+<b>hadoop jar ExcelRecordReaderMapReduce-0.0.1-SNAPSHOT-jar-with-dependencies.jar in out <b>
  <br>
  
 hadoop fs -cat out/part* <br>
