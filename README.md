@@ -21,10 +21,14 @@ Execute the job as <br>
 <b>hadoop jar ExcelRecordReaderMapReduce-0.0.1-SNAPSHOT-jar-with-dependencies.jar in out <b>
  <br>
  
+After the job has completed you can examine the contents of the output directory in HDFS.
+<br>
 hadoop fs -cat out/part* <br>
+<table>
 0       Buffet  Jimmy   Somewhere on the Beach  Key West        FL<br>
 1       Bush    George  1600 Pennsylvania Ave   Washington      DC<br>
 2       Cartman Eric    84 Bigboned Way South Park      CO<br>
 3       Crockett        Davey   The Alamo       San Antonio     TX<br>
 4       Doe     Jane    821 Zimbabwe Ave        DC<br>
 5       Gates   Bill    1 Microsoft Way Redmond WA<br>
+</table>
