@@ -25,7 +25,7 @@ After the job has completed you can examine the contents of the output directory
 <br>
 >
 hadoop fs -cat out/part* <br>
-
+>
 0       Buffet  Jimmy   Somewhere on the Beach  Key West        FL<br>
 1       Bush    George  1600 Pennsylvania Ave   Washington      DC<br>
 2       Cartman Eric    84 Bigboned Way South Park      CO<br>
