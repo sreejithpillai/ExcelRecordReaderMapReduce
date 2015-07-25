@@ -1,19 +1,4 @@
-Skip to content
- This repository
-Explore
-Gist
-Blog
-Help
-sreejithpillai sreejithpillai
- 
-4  Watch 
-  Star 18
- Fork 8alexholmes/json-mapreduce
- branch: master  json-mapreduce / LICENSE
-Alex Holmesalexholmes on Nov 6, 2011 first commit
-1 contributor
-202 lines (169 sloc)  10.863 kb RawBlameHistory   
-                              Apache License
+                                Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
 
